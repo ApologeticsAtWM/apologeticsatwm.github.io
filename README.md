@@ -1,4 +1,4 @@
-Put your HTML text here<HTML>
+<HTML>
 <head>
     <style>
         body {

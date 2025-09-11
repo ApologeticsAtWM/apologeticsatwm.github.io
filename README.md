@@ -27,7 +27,7 @@
 </head>
 <body>
     <br>
-    <img src="https://files.catbox.moe/l84lh3.png" height="200">
+    <a href="https://apologeticsatwm.github.io"><img src="https://files.catbox.moe/l84lh3.png" height="200"></a>
     <br>
     <h1>Apologetics at W&M</h1>
     <button>Home</button> 

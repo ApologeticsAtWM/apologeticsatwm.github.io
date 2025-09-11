@@ -32,7 +32,7 @@
     <h1>Apologetics at W&M</h1>
     <button>Home</button> 
     <button>About</button> 
-    <button>Exec Board</button>
+    <a href="https://apologeticsatwm.github.io/exec"><button>Exec Board</button></a>
     <button>Resources</button>    
     <br>
     <br>

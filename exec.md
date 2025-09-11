@@ -37,7 +37,7 @@
     <br>
     <br>
     <div class="main">
-	<h1>Club Exec Board</h2>
+	<h1>Club Exec Board</h1>
 	<ul>Peter Bentley
 		<li>President</li>
 		<li>Class of 2027</li>

@@ -1,4 +1,3 @@
-<HTML>
 <head>
     <style>
         body {
@@ -41,4 +40,3 @@
         <p><strong>Welcome to the website of the Apologetics Club at the College of William and Mary! </strong>We are a registered student organization founded in 20XX.</p>
     </div>
 </body>
-</HTML>

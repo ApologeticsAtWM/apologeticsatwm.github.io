@@ -36,10 +36,7 @@
     <a href="https://apologeticsatwm.github.io"><img src="https://files.catbox.moe/l84lh3.png" height="200"></a>
     <br>
     <h1>Apologetics at W&M</h1>
-    <button>Home</button> 
-    <button>About</button> 
-    <button><a href="https://apologeticsatwm.github.io/exec">Exec Board</a></button>
-    <button>Resources</button>    
+    <a href="https://apologeticsatwm.github.io"><img src="/site assets/home.png"></a>
     <br>
     <br>
     <div class="main">

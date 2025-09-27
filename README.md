@@ -32,11 +32,11 @@
     <h1>Apologetics at W&M</h1>
     <button>Home</button> 
     <button>About</button> 
-    <button><a href="https://apologeticsatwm.github.io/exec">Exec Board</a>a></button>
+    <button><a href="https://apologeticsatwm.github.io/exec">Exec Board</a></button>
     <button>Resources</button>    
     <br>
     <br>
     <div class="main">
-        <p><strong>Welcome to the website of the Apologetics Club at the College of William and Mary! </strong>We are a registered student organization founded in 2023.</p>
+        <p><strong>Welcome to the website of the Apologetics Club at the College of William and Mary! </strong>We are a registered student organization founded in 2023. Our weekly meetings take place from 5:15 to 6:15 pm on Thursdays in Washington 307. We'd love to have you join us!</p>
     </div>
 </body>

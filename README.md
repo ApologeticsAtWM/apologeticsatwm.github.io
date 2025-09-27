@@ -36,7 +36,7 @@
     <a href="https://apologeticsatwm.github.io"><img src="https://files.catbox.moe/l84lh3.png" height="200"></a>
     <br>
     <h1>Apologetics at W&M</h1>
-    <a href="https://apologeticsatwm.github.io"><img src="/site assets/home.png" height="20"></a>
+    <a href="https://apologeticsatwm.github.io"><img src="/site assets/home.png" height="50"></a>
     <br>
     <br>
     <div class="main">

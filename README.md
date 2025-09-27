@@ -7,6 +7,9 @@
             margin: auto;
             font-family: 'Linux Biolinum';
             }
+        a {
+            color: white;
+            }
        @font-face {  font-family: 'Linux Biolinum'; /*a name to be used later*/
     src: url('https://github.com/ApologeticsAtWM/apologeticsatwm.github.io/blob/main/LinBiolinum_R.ttf');
         }
